@@ -1,0 +1,8 @@
+1. apollo folder contains the angular code
+2. The gql-server folder contains the express-node server code
+3. The first two task are there under the src/app directory structure with list and middleware folder. the server2.js in the gql-server contains the server for task2.
+4. The third task is there under paginator folder
+5. The fourth task is there in the display folder
+6. Please run the angular code on the browser from navigation - Assignment1 -> Assignment2 => Assignment 3. 
+7. Once you click on any title on Assignment 3, then the details of that component is display on browser. 
+
